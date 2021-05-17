@@ -1,0 +1,41 @@
+.u-section-1 {
+  background-image: linear-gradient(#e5e5e5, #77aad9);
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 1604px;
+  background-image: url("images/CV_ToonJooris_EnglishVersion_page-0001.jpg");
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    min-height: 1146px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    min-height: 1104px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    min-height: 821px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 116px;
+}
+
+.u-section-2 .u-btn-1 {
+  font-size: 1.5rem;
+  background-image: none;
+  border-style: none;
+  margin: 20px auto 30px 0;
+  padding: 20px 112px 21px 111px;
+}@font-face {
+  font-family: 'Montserrat-Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Montserrat-Bold.ttf);
+}
